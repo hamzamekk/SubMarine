@@ -1,4 +1,12 @@
 {
-  "name": "testSize",
-  "displayName": "testSize"
+  "expo": {
+    "name": "sub",
+    "slug": "sub",
+    "android": {
+      "package": "com.sub"
+    },
+    "ios": {
+      "bundleIdentifier": "com.sub"
+    }
+  }
 }
